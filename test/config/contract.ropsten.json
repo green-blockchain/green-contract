@@ -1,0 +1,11 @@
+{
+    "contractAddress": "0x1c3940bc09bB356af76C75A80D86313D620FAA32",
+    "accountAddress": "0x6fca488C744E5A73806c95551a6E7F92a91a8A40",
+    "privateKey": "1742315424c8c5e8a727d81505e6ef7d463e6332d1544ea3274918e0bbf0e8c5",
+    "toAddress": "0x03143DEfE2f0958EC4f156c89Afb1d93cc4Fcba0",
+    "distAddresses": ["0x03143DEfE2f0958EC4f156c89Afb1d93cc4Fcba0"],
+    "distValues": [333456],
+    "decimalPlaces": 18,
+    "url": "https://dev.eth.share.green/"
+  }
+  

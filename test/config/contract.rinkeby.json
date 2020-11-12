@@ -1,0 +1,11 @@
+{
+    "contractAddress": "0xb9E1b9830866Fd2964a7b14E27B629E90455AAf8",
+    "accountAddress": "0x6fca488C744E5A73806c95551a6E7F92a91a8A40",
+    "privateKey": "1742315424c8c5e8a727d81505e6ef7d463e6332d1544ea3274918e0bbf0e8c5",
+    "toAddress": "0x03143DEfE2f0958EC4f156c89Afb1d93cc4Fcba0",
+    "distAddresses": ["0x03143DEfE2f0958EC4f156c89Afb1d93cc4Fcba0"],
+    "distValues": [50],
+    "decimalPlaces": 18,
+    "url": "https://rinkeby.infura.io/"
+  }
+  

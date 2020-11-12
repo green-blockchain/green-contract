@@ -1,0 +1,23 @@
+{
+    "contractAddress": "0x619a26704b823687b13DbDEC3C3fF0AF922B6FaF",
+    "accountAddress": "0x5ccA4A8aBEd1967F5e53400B1c60d5F1cE2CD270",
+    "privateKey": "9d0ccd444931433f398914a83162ebb58702beeaecf21482f17f64ca8ee3e5c5",
+    "secondaryAddress": "0x01145AB6309036Db495c821bA830C2DcE1e3db1c",
+    "secondaryPK": "a7471c2cf57c184b2bd5eb384379a55a953a690ef5b3c4005bbaaf9300316a1b",
+    "toAddress": "0x0AF7d728502dB0cd8794f8173eF2C792B7bBfa84",
+    "distAddresses": [
+      "0x01145AB6309036Db495c821bA830C2DcE1e3db1c",
+      "0x5E6cdf24a7270bd54e684D5a5770260255626723",
+      "0xEC256BaFF4FA33b290c3DB0B5c2e2d6c809F13BE",
+      "0x3C10B09FAdBF1Db4197c2Ff790f8185d7afD8593",
+      "0xD307C2bf1a50aE438d724B0290670260c930E15D",
+      "0x3587f3cfF6Df3aa3e2ee4F566625Bf10dC4145E4",
+      "0x0d618fcf73Dbb99455f1936934C23ee6A1326164",
+      "0x93b51A57960EE689D5e3d208c0923a20dBe4c688",
+      "0x0AF7d728502dB0cd8794f8173eF2C792B7bBfa84"
+    ],
+    "distValues": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+    "decimalPlaces": 18,
+    "url": "http://127.0.0.1:7545"
+  }
+  
